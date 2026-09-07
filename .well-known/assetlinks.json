@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.prosperpeace04.twa",
+        "sha256_cert_fingerprints": ["86:54:4E:AF:7B:67:5B:A2:A7:72:BE:92:8F:D2:4F:F9:72:25:08:56:D3:45:A2:82:B9:7F:E3:8D:CE:12:A4:45"]
+      }
+    }]
